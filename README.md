@@ -1,4 +1,3 @@
 # .github
 
-
-main
+iota
