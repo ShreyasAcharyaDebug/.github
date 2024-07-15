@@ -6,4 +6,7 @@ main branch
 
 command : `ls`
 
-command : ```ls```
+command : 
+```bash
+ls
+```
